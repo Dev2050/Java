@@ -1,5 +1,5 @@
 
-package sec.project.controller;
+package file.project.controller;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
