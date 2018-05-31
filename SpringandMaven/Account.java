@@ -1,5 +1,5 @@
 
-package file.project.activity;
+package file.project.domain;
 import java.util.List;
 import javax.persistence.Column;
 import javax.persistence.Entity;
