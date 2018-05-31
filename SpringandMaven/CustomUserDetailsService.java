@@ -1,4 +1,4 @@
-package sec.project.config;
+package file.project.config;
 
 import java.util.Arrays;
 import java.util.Map;
