@@ -1,4 +1,4 @@
-package sec.project.domain;
+package file.project.domain;
 
 import javax.persistence.Entity;
 import org.springframework.data.jpa.domain.AbstractPersistable;
